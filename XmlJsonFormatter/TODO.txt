@@ -1,0 +1,7 @@
+- namespace functionality
+- create dummy xml from xsd
+- encoding
+- xslt execute
+
+- light mode
+- different syntax colors
